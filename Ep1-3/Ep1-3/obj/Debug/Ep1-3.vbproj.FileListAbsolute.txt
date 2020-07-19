@@ -1,0 +1,11 @@
+D:\nitima khuadsalee\Ep1-3\Ep1-3\bin\Debug\Ep1-3.exe.config
+D:\nitima khuadsalee\Ep1-3\Ep1-3\bin\Debug\Ep1-3.exe
+D:\nitima khuadsalee\Ep1-3\Ep1-3\bin\Debug\Ep1-3.pdb
+D:\nitima khuadsalee\Ep1-3\Ep1-3\bin\Debug\Ep1-3.xml
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\Ep1-3.vbprojResolveAssemblyReference.cache
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\Ep1-3.vbproj.GenerateResource.Cache
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\Ep1-3.exe
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\Ep1-3.xml
+D:\nitima khuadsalee\Ep1-3\Ep1-3\obj\Debug\Ep1-3.pdb

@@ -1,0 +1,15 @@
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\bin\Debug\Ep2.exe.config
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\bin\Debug\Ep2.exe
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\bin\Debug\Ep2.pdb
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\bin\Debug\Ep2.xml
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.Form1.resources
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.Resources.resources
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.exe
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.xml
+C:\Users\Lenovo-19\AppData\Local\Temporary Projects\Ep2\obj\Debug\Ep2.pdb
+D:\nitima khuadsalee\Ep2\Ep2\bin\Debug\Ep2.exe.config
+D:\nitima khuadsalee\Ep2\Ep2\obj\Debug\Ep2.exe
+D:\nitima khuadsalee\Ep2\Ep2\obj\Debug\Ep2.xml
+D:\nitima khuadsalee\Ep2\Ep2\obj\Debug\Ep2.pdb
